@@ -14,6 +14,6 @@
 
 include vendor/antos/configs/aosp_fixes.mk
 include vendor/antos/configs/system.mk
-include vendor/antos/configs/nexus_build.mk
+include vendor/antos/configs/antos_build.mk
 include vendor/antos/configs/bootanimation.mk
 include vendor/antos/configs/version.mk
