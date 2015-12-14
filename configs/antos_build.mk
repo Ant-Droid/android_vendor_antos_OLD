@@ -19,9 +19,13 @@ PRODUCT_PACKAGES += \
 
 #Custom Packages
 PRODUCT_PACKAGES += \
-    PureNexusSettings \
+    PureNexus    WallpaperPicker \
+	Gallery2 \
+	ThemeChooserSettings \
     LockClock \
-    WallpaperPicker
+    WallpaperPicker \
+	Gallery2 \
+	ThemeChooser
 
 # Busybox
 PRODUCT_PACKAGES += \
